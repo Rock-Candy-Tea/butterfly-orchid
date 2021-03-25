@@ -37,7 +37,7 @@ link: https://zfe.space/post/hexo-electric-clock.html
 ## 安装命令:
 
 ```powershell
-npm i hexo-githubcalendar hexo-magnet hexo-swiper-bar hexo-butterfly-article-double-row hexo-history-calendar hexo-electric-clock --save
+npm install hexo-githubcalendar hexo-magnet hexo-swiper-bar hexo-butterfly-article-double-row hexo-history-calendar hexo-electric-clock --save
 ```
 
 ## 将以下内容放入博客根目录的config中即可。
